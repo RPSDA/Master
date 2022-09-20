@@ -312,7 +312,7 @@ body {
    }
    .copaserv .volume-slider {
        position: absolute;
-       bottom: 244px;
+       bottom: 251px;
        right: 1048px;
        display: auto;
        z-index: 10;
