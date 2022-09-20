@@ -207,8 +207,8 @@ body {
        font-size: 20px;
            color: rgb #ffffff;
        position: absolute;
-       top: 138px;
-       right: 296px;
+       top: 161px;
+       right: 257px;
    }
    .copaserv .listeners:before {
        content:url();
