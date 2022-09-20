@@ -255,9 +255,9 @@ body {
   }
   .copaserv .icons-right-serv {
     text-align: left;
-    position: absolute;
-    bottom: 355px;
-    right: -50px;
+    position: fixed;
+    bottom: 288px;
+    right: -822px;
     z-index: 11;
   }
   .copaserv .icons-left {
@@ -312,8 +312,8 @@ body {
    }
    .copaserv .volume-slider {
        position: absolute;
-       bottom: 251px;
-       right: 1048px;
+       bottom: 140px;
+       right: 200px;
        display: auto;
        z-index: 10;
    }
