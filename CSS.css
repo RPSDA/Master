@@ -208,7 +208,7 @@ body {
            color: rgb #ffffff;
        position: absolute;
        top: 161px;
-       right: 1139px;
+       right: 781px;
    }
    .copaserv .listeners:before {
        content:url();
@@ -312,8 +312,8 @@ body {
    }
    .copaserv .volume-slider {
        position: absolute;
-       bottom: 228px;
-       right: 1062px;
+       bottom: 168px;
+       right: 703px;
        display: auto;
        z-index: 10;
    }
